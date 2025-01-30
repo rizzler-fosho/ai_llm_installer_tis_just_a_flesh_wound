@@ -1,0 +1,7 @@
+[project]
+name = "ai_llm_installer_tis_just_a_flesh_wound"
+version = "0.1.0"
+description = "This is obviously a joke..."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

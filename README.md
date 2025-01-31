@@ -2,11 +2,13 @@
 This is just a joke.
 
 ## Test Environment
-ASUS eeePC (Powered by Intel Celeron)
+ASUS eeePC (Powered by Intel Celeron) and Windows ME  
+
 Python 3.12
 
 ## Installation
-`uv venv`
+`uv venv`  
+
 `source .venv/bin/activate`
 
 # Created for fun and educational purposes.
